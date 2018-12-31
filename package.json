@@ -1,0 +1,24 @@
+{
+  "name": "province-bot",
+  "version": "1.0.0",
+  "description": "Bot for MTA Province",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tonya#9363",
+  "license": "ISC",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "moment": "^2.23.0",
+    "ms": "^2.1.1",
+    "path": "^0.12.7",
+    "sqlite": "^3.0.0",
+    "strftime": "^0.10.0",
+    "stringify": "^5.2.0"
+  }
+}
